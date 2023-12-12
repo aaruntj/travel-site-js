@@ -1,0 +1,23 @@
+h1{
+    color: #ffffff;
+    font-size: 3rem;
+}
+
+.main{
+    background-size: cover;
+    background-position: center;
+    height: 40rem;
+    display:flex;
+}
+
+.main--hawaii{
+    background-image: url("../assets/images/hawaii.jpg");
+}
+
+.main--iceland{
+    background-image: url("../assets/images/iceland.jpg");
+}
+
+.main--greece{
+    background-image: url("../assets/images/greece.jpg");
+}
